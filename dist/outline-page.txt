@@ -1,0 +1,77 @@
+Page 1040px: background #f7f6ef
+  Section 1040px: background #163a35
+    Column 960px
+      Text 960px "DAYLIGHT"
+      Text 960px "FIELD NOTES · NO. 01"
+    Row 960px: 2 side by side, stacked on phones
+      Column 463px
+        Text 463px "ONE UNHURRIED DAY · COPENHAGEN"
+        Heading h1 463px "Let the city set the pace."
+        Text 463px "A five-stop Copenhagen day, built around good pauses, easy choices, and room to…"
+        Button: background #d9ed8b "Follow the day ↓" → #itinerary
+      Column 463px
+        Image 420px [Original schematic route illustration showing five stops and a winding path across Copenhagen.] data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciI…
+        Text 463px "A schematic, not-to-scale route"
+  Section 1040px: background #f7f6ef
+    Column 960px
+      Text 960px "THE GOOD, SLOW VERSION"
+      Heading h2 960px "Five stops. Plenty of breathing room."
+      Text 960px "Use the times as a gentle rhythm, not a deadline. Skip a stop if a good moment …"
+    Column 960px
+      Row 960px: 2 side by side, stacked on phones
+        Column 70px: background #e7efe4
+          Text 44px "01"
+          Text 44px "09:00"
+        Column 872px: background #fffef9
+          Text 830px "COFFEE + WANDER"
+          Heading h3 830px "Ease into Nørrebro"
+          Text 830px "Find a good coffee, then let the side streets set the pace. Keep the first hour…"
+      Row 960px: 2 side by side, stacked on phones
+        Column 70px: background #e7efe4
+          Text 44px "02"
+          Text 44px "11:30"
+        Column 872px: background #fffef9
+          Text 830px "GREEN PAUSE"
+          Heading h3 830px "Take the scenic way in"
+          Text 830px "Head toward the inner city with time for a park or a quiet bench. This is the b…"
+      Row 960px: 2 side by side, stacked on phones
+        Column 70px: background #e7efe4
+          Text 44px "03"
+          Text 44px "13:00"
+        Column 872px: background #fffef9
+          Text 830px "LUNCH"
+          Heading h3 830px "Refuel at Torvehallerne"
+          Text 830px "A market-hall lunch makes it easy for everyone to choose their own thing. Leave…"
+      Row 960px: 2 side by side, stacked on phones
+        Column 70px: background #e7efe4
+          Text 44px "04"
+          Text 44px "15:30"
+        Column 872px: background #fffef9
+          Text 830px "HARBOR HOUR"
+          Heading h3 830px "Follow the water at Nyhavn"
+          Text 830px "Trade the checklist for a waterside stroll. Pause for a view, a photo, or simpl…"
+      Row 960px: 2 side by side, stacked on phones
+        Column 70px: background #e7efe4
+          Text 44px "05"
+          Text 44px "18:30"
+        Column 872px: background #fffef9
+          Text 830px "DINNER"
+          Heading h3 830px "Wind down in Christianshavn"
+          Text 830px "Finish across the canal with an unhurried dinner. If you have a place in mind, …"
+  Section 1040px: background #e7efe4
+    Row 960px: 2 side by side, stacked on phones
+      Column 468px
+        Text 468px "MAKE IT YOURS"
+        Heading h2 468px "Keep the plan light."
+        Text 468px "The point is a day that feels like yours. Choose three stops, add a favorite, a…"
+      Column 468px
+        List 468px
+          ListItem 450px "Check current opening hours before you go."
+          ListItem 450px "Leave extra time for transit and weather."
+          ListItem 450px "Book dinner ahead if your group needs a table."
+    Text 960px "Sample itinerary only. Times and the route illustration are indicative; confirm…"
+  Section 1040px: background #102d29
+    Text 976px "DAYLIGHT"
+    Text 976px "A small, reusable template for a better kind of day out."
+    Text 976px "Built with Hyper Elements · one source, web + email"
+    Link "Back to the itinerary ↑" → #itinerary
