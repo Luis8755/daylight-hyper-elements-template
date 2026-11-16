@@ -1,0 +1,26 @@
+{
+  "name": "daylight-hyper-elements-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Copenhagen day-guide template rendered as a web page and email with Hyper Elements.",
+  "scripts": {
+    "build": "tsx scripts/build.tsx",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run build"
+  },
+  "dependencies": {
+    "@hyper-elements/react": "^0.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
